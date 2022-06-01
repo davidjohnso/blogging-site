@@ -1,19 +1,23 @@
-.pulp-fiction {
-  color: rgba(194, 153, 20, 0.87)
-}
-
-.unbreakable {
-  color: rgb(7, 7, 232) 
-}
-
-.she-dead {
-  color: red 
-}
-
-.heart-attack {
-  color: rgba(0, 128, 0, 0.753)
-}
-
 body {
   background-color: rgba(67, 83, 126, 0.503);
 }
+
+.pulp-fiction {
+  color: rgba(194, 153, 20, 0.87);
+  margin-bottom: 2%;
+}
+
+.unbreakable {
+  color: rgb(7, 7, 232); 
+}
+
+.she-dead {
+  color: red;
+  margin-top: 2%;
+  margin-bottom: 2%; 
+}
+
+.heart-attack {
+  color: rgba(0, 128, 0, 0.753);
+}
+
