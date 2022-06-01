@@ -13,3 +13,7 @@
 .heart-attack {
   color: rgba(0, 128, 0, 0.753)
 }
+
+body {
+  background-color: rgba(67, 83, 126, 0.503);
+}
